@@ -253,6 +253,7 @@ int main()
 	}
 
 	printf("Bitmap : ");
+	fprintf(fp,"Bitmap : ");	
 	for(i=0;i<N;i++)
 	{
 		printf("%d ",bitmap[i]);	

@@ -1,124 +1,120 @@
- 0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  1  1  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+Bitmap :  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  1  1  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
 
-PID 70 running...  PID 70 still got to run 13 millisecs.
-  PID 70 added to blocked Queue.
-PID 57 running... PID 57 done in 12 millisecs.
-   PID 70 still got to run 13 millisecs.
-   PID 70 already in blocked Queue.
-   PID 70 done and removed from blocked Queue.
+PID 70 running... PID 70 done in 38 millisecs.
+PID 67 running... PID 67 done in 8 millisecs.
+PID 56 running... PID 56 done in 4 millisecs.
+PID 51 running... PID 51 done in 13 millisecs.
+PID 35 running... PID 35 done in 139 millisecs.
 All processes with priority 114 executed successfully.
 
-PID 67 running...  PID 67 still got to run 14 millisecs.
-  PID 67 added to blocked Queue.
-PID 65 running... PID 65 done in 76 millisecs.
-PID 61 running... PID 61 done in 8 millisecs.
-PID 53 running...  PID 53 still got to run 67 millisecs.
-  PID 53 added to blocked Queue.
-PID 38 running... PID 38 done in 73 millisecs.
-PID 27 running... PID 27 done in 4 millisecs.
-   PID 67 still got to run 14 millisecs.
-   PID 67 already in blocked Queue.
-   PID 67 done and removed from blocked Queue.
-   PID 53 still got to run 67 millisecs.
-   PID 53 already in blocked Queue.
-   PID 53 done and removed from blocked Queue.
+PID 69 running... PID 69 done in 53 millisecs.
+PID 55 running... PID 55 done in 28 millisecs.
+PID 39 running... PID 39 done in 0 millisecs.
+PID 34 running...  PID 34 still got to run 5 millisecs.
+  PID 34 added to blocked Queue.
+PID 28 running...  PID 28 still got to run 3 millisecs.
+  PID 28 added to blocked Queue.
+PID 25 running... PID 25 done in 25 millisecs.
+   PID 34 still got to run 5 millisecs.
+   PID 34 already in blocked Queue.
+   PID 34 done and removed from blocked Queue.
+   PID 28 still got to run 3 millisecs.
+   PID 28 already in blocked Queue.
+   PID 28 done and removed from blocked Queue.
 All processes with priority 115 executed successfully.
 
-PID 55 running... PID 55 done in 86 millisecs.
-PID 46 running... PID 46 done in 44 millisecs.
-PID 28 running... PID 28 done in 34 millisecs.
-All processes with priority 116 executed successfully.
-
-PID 47 running... PID 47 done in 100 millisecs.
-PID 42 running... PID 42 done in 35 millisecs.
-PID 37 running... PID 37 done in 19 millisecs.
-PID 34 running... PID 34 done in 61 millisecs.
-PID 32 running...  PID 32 still got to run 47 millisecs.
-  PID 32 added to blocked Queue.
-PID 26 running... PID 26 done in 130 millisecs.
-PID 24 running... PID 24 done in 96 millisecs.
-   PID 32 still got to run 47 millisecs.
-   PID 32 already in blocked Queue.
-   PID 32 done and removed from blocked Queue.
-All processes with priority 117 executed successfully.
-
-PID 69 running... PID 69 done in 89 millisecs.
-PID 44 running... PID 44 done in 10 millisecs.
-PID 30 running... PID 30 done in 109 millisecs.
-PID 22 running... PID 22 done in 17 millisecs.
-All processes with priority 118 executed successfully.
-
-PID 63 running... PID 63 done in 144 millisecs.
-PID 56 running... PID 56 done in 7 millisecs.
-PID 50 running... PID 50 done in 70 millisecs.
-PID 41 running...  PID 41 still got to run 65 millisecs.
-  PID 41 added to blocked Queue.
-PID 36 running... PID 36 done in 36 millisecs.
-PID 31 running...  PID 31 still got to run 13 millisecs.
-  PID 31 added to blocked Queue.
-   PID 41 still got to run 65 millisecs.
-   PID 41 already in blocked Queue.
-   PID 41 done and removed from blocked Queue.
-   PID 31 still got to run 13 millisecs.
-   PID 31 already in blocked Queue.
-   PID 31 done and removed from blocked Queue.
-All processes with priority 119 executed successfully.
-
-PID 66 running... PID 66 done in 7 millisecs.
-PID 48 running... PID 48 done in 70 millisecs.
-PID 35 running... PID 35 done in 1 millisecs.
-All processes with priority 120 executed successfully.
-
-PID 68 running... PID 68 done in 68 millisecs.
-PID 64 running...  PID 64 still got to run 66 millisecs.
-  PID 64 added to blocked Queue.
-PID 54 running... PID 54 done in 103 millisecs.
-PID 49 running... PID 49 done in 63 millisecs.
-PID 45 running... PID 45 done in 46 millisecs.
-PID 29 running... PID 29 done in 15 millisecs.
-PID 25 running... PID 25 done in 60 millisecs.
-PID 23 running... PID 23 done in 26 millisecs.
-PID 21 running...  PID 21 still got to run 50 millisecs.
-  PID 21 added to blocked Queue.
-   PID 64 still got to run 66 millisecs.
-   PID 64 already in blocked Queue.
-   PID 64 done and removed from blocked Queue.
-   PID 21 still got to run 50 millisecs.
-   PID 21 already in blocked Queue.
-   PID 21 done and removed from blocked Queue.
-All processes with priority 121 executed successfully.
-
-PID 59 running... PID 59 done in 71 millisecs.
-PID 58 running...  PID 58 still got to run 3 millisecs.
-  PID 58 added to blocked Queue.
-PID 52 running...  PID 52 still got to run 46 millisecs.
-  PID 52 added to blocked Queue.
-PID 51 running... PID 51 done in 0 millisecs.
-PID 40 running... PID 40 done in 44 millisecs.
-   PID 58 still got to run 3 millisecs.
-   PID 58 already in blocked Queue.
-   PID 58 done and removed from blocked Queue.
-   PID 52 still got to run 46 millisecs.
-   PID 52 already in blocked Queue.
-   PID 52 done and removed from blocked Queue.
-All processes with priority 122 executed successfully.
-
-PID 62 running...  PID 62 still got to run 52 millisecs.
+PID 63 running... PID 63 done in 35 millisecs.
+PID 62 running...  PID 62 still got to run 34 millisecs.
   PID 62 added to blocked Queue.
-PID 60 running...  PID 60 still got to run 12 millisecs.
-  PID 60 added to blocked Queue.
-PID 43 running... PID 43 done in 142 millisecs.
-PID 39 running... PID 39 done in 84 millisecs.
-PID 33 running...  PID 33 still got to run 27 millisecs.
-  PID 33 added to blocked Queue.
-   PID 62 still got to run 52 millisecs.
+PID 43 running...  PID 43 still got to run 35 millisecs.
+  PID 43 added to blocked Queue.
+PID 41 running... PID 41 done in 77 millisecs.
+PID 38 running... PID 38 done in 71 millisecs.
+PID 26 running... PID 26 done in 141 millisecs.
+   PID 62 still got to run 34 millisecs.
    PID 62 already in blocked Queue.
    PID 62 done and removed from blocked Queue.
-   PID 60 still got to run 12 millisecs.
-   PID 60 already in blocked Queue.
-   PID 60 done and removed from blocked Queue.
-   PID 33 still got to run 27 millisecs.
+   PID 43 still got to run 35 millisecs.
+   PID 43 already in blocked Queue.
+   PID 43 done and removed from blocked Queue.
+All processes with priority 116 executed successfully.
+
+PID 42 running...  PID 42 still got to run 20 millisecs.
+  PID 42 added to blocked Queue.
+   PID 42 still got to run 20 millisecs.
+   PID 42 already in blocked Queue.
+   PID 42 done and removed from blocked Queue.
+All processes with priority 117 executed successfully.
+
+PID 54 running... PID 54 done in 70 millisecs.
+PID 48 running...  PID 48 still got to run 7 millisecs.
+  PID 48 added to blocked Queue.
+PID 47 running... PID 47 done in 0 millisecs.
+PID 44 running... PID 44 done in 43 millisecs.
+PID 29 running... PID 29 done in 28 millisecs.
+   PID 48 still got to run 7 millisecs.
+   PID 48 already in blocked Queue.
+   PID 48 done and removed from blocked Queue.
+All processes with priority 118 executed successfully.
+
+PID 64 running... PID 64 done in 139 millisecs.
+PID 61 running... PID 61 done in 116 millisecs.
+PID 36 running... PID 36 done in 34 millisecs.
+PID 33 running...  PID 33 still got to run 59 millisecs.
+  PID 33 added to blocked Queue.
+PID 32 running...  PID 32 still got to run 14 millisecs.
+  PID 32 added to blocked Queue.
+   PID 33 still got to run 59 millisecs.
    PID 33 already in blocked Queue.
    PID 33 done and removed from blocked Queue.
+   PID 32 still got to run 14 millisecs.
+   PID 32 already in blocked Queue.
+   PID 32 done and removed from blocked Queue.
+All processes with priority 119 executed successfully.
+
+PID 68 running... PID 68 done in 67 millisecs.
+PID 66 running... PID 66 done in 26 millisecs.
+PID 50 running... PID 50 done in 71 millisecs.
+PID 49 running...  PID 49 still got to run 10 millisecs.
+  PID 49 added to blocked Queue.
+PID 37 running... PID 37 done in 62 millisecs.
+PID 31 running... PID 31 done in 13 millisecs.
+PID 27 running... PID 27 done in 147 millisecs.
+PID 21 running... PID 21 done in 29 millisecs.
+   PID 49 still got to run 10 millisecs.
+   PID 49 already in blocked Queue.
+   PID 49 done and removed from blocked Queue.
+All processes with priority 120 executed successfully.
+
+PID 65 running... PID 65 done in 112 millisecs.
+PID 52 running...  PID 52 still got to run 47 millisecs.
+  PID 52 added to blocked Queue.
+PID 40 running... PID 40 done in 57 millisecs.
+PID 30 running... PID 30 done in 61 millisecs.
+PID 23 running... PID 23 done in 31 millisecs.
+PID 22 running... PID 22 done in 24 millisecs.
+   PID 52 still got to run 47 millisecs.
+   PID 52 already in blocked Queue.
+   PID 52 done and removed from blocked Queue.
+All processes with priority 121 executed successfully.
+
+PID 59 running...  PID 59 still got to run 37 millisecs.
+  PID 59 added to blocked Queue.
+PID 53 running... PID 53 done in 32 millisecs.
+PID 46 running... PID 46 done in 8 millisecs.
+   PID 59 still got to run 37 millisecs.
+   PID 59 already in blocked Queue.
+   PID 59 done and removed from blocked Queue.
+All processes with priority 122 executed successfully.
+
+PID 60 running... PID 60 done in 62 millisecs.
+PID 58 running... PID 58 done in 25 millisecs.
+PID 57 running...  PID 57 still got to run 66 millisecs.
+  PID 57 added to blocked Queue.
+PID 45 running... PID 45 done in 83 millisecs.
+PID 24 running... PID 24 done in 69 millisecs.
+   PID 57 still got to run 66 millisecs.
+   PID 57 already in blocked Queue.
+   PID 57 done and removed from blocked Queue.
 All processes with priority 123 executed successfully.
 
